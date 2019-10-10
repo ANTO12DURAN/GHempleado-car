@@ -1,0 +1,2 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_empleado-car_empleado-car,empleado-car.empleado-car,model_empleado-car_empleado-car,,1,0,0,0
