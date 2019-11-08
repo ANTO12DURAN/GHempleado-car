@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 {
-    'name': "empleado car",
+    'name': "employee_car_request",
 
     'summary': """ejemplo de prueba""",
 
@@ -22,7 +22,7 @@
 
     # always loaded
     'data': [
-        # 'security/ir.model.access.csv',
+        'security/ir.model.access.csv',
         'views/views.xml',
         'views/templates.xml',
     ],
